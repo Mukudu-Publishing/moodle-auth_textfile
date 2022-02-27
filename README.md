@@ -1,5 +1,7 @@
 __Introduction to Moodle 3.9+ Plugin Development__
 
+__Moodle Plugin Development By Example Course__
+
 auth\_textfile
 
 # Authentication Plugin: Textfile #
